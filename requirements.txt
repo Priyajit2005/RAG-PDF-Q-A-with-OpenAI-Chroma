@@ -1,0 +1,15 @@
+streamlit>=1.31.0
+
+langchain>=0.1.16
+langchain-core>=0.1.42
+langchain-community>=0.0.38
+langchain-openai>=0.0.6
+langchain-text-splitters>=0.0.1
+
+chromadb>=0.4.22
+pypdf>=4.0.0
+
+openai>=1.6.0
+python-dotenv
+ipykernel
+pandas
